@@ -4,12 +4,14 @@ plugins {
     alias(libs.plugins.kotlin.compose)
 }
 
+val bundleId = "com.example.drinkdealcalc"
+
 android {
-    namespace = "com.example.dealcalc"
+    namespace = bundleId
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.dealcalc"
+        applicationId = bundleId
         minSdk = 24
         targetSdk = 34
         versionCode = 1

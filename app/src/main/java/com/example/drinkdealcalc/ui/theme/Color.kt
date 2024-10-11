@@ -1,4 +1,4 @@
-package com.example.dealcalc.ui.theme
+package com.example.drinkdealcalc.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

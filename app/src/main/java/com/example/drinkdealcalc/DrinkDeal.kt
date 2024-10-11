@@ -1,4 +1,4 @@
-package com.example.dealcalc
+package com.example.drinkdealcalc
 
 
 data class DrinkDeal(var drinkName: String, var totalPrice: Float, var amountOfCans: Float, var millilitres: Float)

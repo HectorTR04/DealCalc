@@ -1,4 +1,4 @@
-package com.example.dealcalc
+package com.example.drinkdealcalc
 
 import org.junit.Test
 

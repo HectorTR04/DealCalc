@@ -1,4 +1,4 @@
-package com.example.dealcalc
+package com.example.drinkdealcalc
 
 import android.os.Bundle
 import android.widget.Toast
@@ -38,9 +38,9 @@ import androidx.compose.ui.unit.sp
 import androidx.compose.runtime.*
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontStyle
-import com.example.dealcalc.ui.theme.DealCalcTheme
-import com.example.dealcalc.ui.theme.customBlue
-import com.example.dealcalc.ui.theme.customRed
+import com.example.drinkdealcalc.ui.theme.DealCalcTheme
+import com.example.drinkdealcalc.ui.theme.customBlue
+import com.example.drinkdealcalc.ui.theme.customRed
 
 const val titleSpacing = 200
 const val buttonSpacing = 25
